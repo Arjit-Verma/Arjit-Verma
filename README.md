@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjit-Verma
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Jetpack Compose
+- 👀 I’m interested in Development domain.
+- 🌱 I'm currently Doing web and app dev projects
 - ⚡ Fun fact: I'm Enthusiast in Learning New things
 
 
